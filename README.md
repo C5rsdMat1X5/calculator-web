@@ -2,10 +2,6 @@
 
 A simple, homemade calculator web application built using **Flask** (Python backend) and **vanilla HTML, CSS, and JavaScript** for the frontend. Designed to perform basic arithmetic operations in a clean and responsive user interface.
 
-## 📸 Preview
-
-![Calculator UI](https://via.placeholder.com/600x350.png?text=Calculator+UI+Preview) <!-- Optional: replace with real screenshot -->
-
 ## 🚀 Features
 
 - Basic operations: Addition, Subtraction, Multiplication, Division
