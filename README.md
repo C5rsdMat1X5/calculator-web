@@ -27,7 +27,7 @@ A simple, homemade calculator web application built using **Flask** (Python back
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/calculator-web.git
+git clone https://github.com/C5rsdMat1X5/calculator-web
 cd calculator-web
 
 # Install dependencies
